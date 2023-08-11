@@ -1,5 +1,5 @@
 {
-  "name": "tccwpimport/tccwpimport",
+  "name": "thecodeco/wp-import",
   "description": "WP Import base assets for The Code Company",
   "version": "0.0.1",
   "require": {
